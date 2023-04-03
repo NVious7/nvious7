@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Job Searching**
 
-- 🌱 I’m currently learning **AWS, Next,js, Nuxt.js, GraphQL**
+- 🌱 I’m currently learning **AWS, C#, Next.js, Nuxt.js, GraphQL**
 
 - 👨‍💻 All of my projects are available at [https://nvious7-portfolio.netlify.app](https://nvious7-portfolio.netlify.app)
 
